@@ -7,7 +7,6 @@ Provided some synthetic (fake, semi-randomly generated) twitter data in a csv fi
 
 # Descripton
 I built a sentiment classifier, which will detect how positive or negative each tweet is. I created a csv file, which contains columns for the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score for each tweet. At the end, I produce a graph of the Net Score vs Number of Retweets.
-
-![](file:///Users/user/Desktop/Screen%20Shot%202021-08-26%20at%2017.54.11.png)
-
+ 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
